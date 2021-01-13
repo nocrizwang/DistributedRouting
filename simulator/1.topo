@@ -1,0 +1,13 @@
+h h1
+h h2
+s A
+s B
+s C
+s D
+l h1 A
+l h2 D
+l A B 2
+l B C 1
+l C D 1
+l B D 3
+l A C 7
